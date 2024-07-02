@@ -1,2 +1,2 @@
-# web-scraper
-In this project we will discuss how to scrape data like Names, Ratings, Descriptions, Reviews, addresses, Contact numbers, etc. from google maps using Python.
+# binary menu driven
+In this project we run a menu driven program by importing pickle library and storing user input in csv file using Python.
